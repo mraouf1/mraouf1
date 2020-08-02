@@ -1,12 +1,22 @@
 # Hi there :wave:
 <img src="https://raw.githubusercontent.com/mraouf1/mraouf1/master/cover.png">
 
-<br/><br/>
 I'm a software engineer with 8 years experience on different projects 
 and companies, always trying to create a great software with the best performance and design.
 I enjoy working with Python but has no problem working with any technology that fits the requirments.
 
-Recently I'm trying to learn Web Penetration Testing to try creating web application free of security issues. 
+🔭 I’m currently a **Backend Team Lead in [Yaoota!](https://www.yaoota.com/).**
+
+🌱 I’m currently learning **Web Penetration Testing**.
+
+👯 I’m looking to collaborate on **python open source projects**.
+
+💬 Ask me about **Python/Web development**.
+
+📫 Email: mohamedraouf.m1@gmail.com
+
+⚡ Fun fact: I :heart: Birds...
+
 ## Technologies and tools:
 [![Generic badge](https://img.shields.io/badge/Ansible-blue.svg)](https://www.ansible.com/)
 [![Generic badge](https://img.shields.io/badge/Apache_Airflow-blue.svg)](https://airflow.apache.org/)
@@ -39,14 +49,3 @@ Recently I'm trying to learn Web Penetration Testing to try creating web applica
 [![Generic badge](https://img.shields.io/badge/VirtualBox-blue.svg)](https://www.virtualbox.org/)
 [![Generic badge](https://img.shields.io/badge/XML-blue.svg)](https://www.w3.org/XML/)
 
-🔭 I’m currently a **Backend Team Lead in [Yaoota!](https://www.yaoota.com/).**
-
-🌱 I’m currently learning **Web Penetration Testing**.
-
-👯 I’m looking to collaborate on **python open source projects**.
-
-💬 Ask me about **Python/Web development**.
-
-📫 Email: mohamedraouf.m1@gmail.com
-
-⚡ Fun fact: I :heart: Birds...
