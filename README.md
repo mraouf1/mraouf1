@@ -1,11 +1,11 @@
 # Hi there :wave:
 <img src="https://raw.githubusercontent.com/mraouf1/mraouf1/master/cover.png">
 
-I'm a software engineer with 8 years experience on different projects 
+I'm a software engineer with 10 years experience on different projects 
 and companies, always trying to create a great software with the best performance and design.
 I enjoy working with Python but has no problem working with any technology that fits the requirments.
 
-🔭 I’m currently a **Backend Team Lead in [Yaoota!](https://www.yaoota.com/).**
+🔭 I’m currently a **CTO of [Yaoota!](https://www.yaoota.com/).**
 
 🌱 I’m currently learning **Web Penetration Testing**.
 
